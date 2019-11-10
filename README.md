@@ -1,7 +1,13 @@
 # Python-Project
 System Vibration Control Interface 
 
-## write a GUI code to control the system vibration
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib)
+![PyPI](https://img.shields.io/pypi/v/PyQt5?color=orange&label=PyQt5)
+![PyPI](https://img.shields.io/pypi/v/matplotlib?color=Green&label=matplotlib)
+![PyPI](https://img.shields.io/pypi/v/NumPy?color=red&label=NumPy)
+![PyPI](https://img.shields.io/pypi/v/SciPy?color=Yellow&label=SciPy)
+## Task
+Write a GUI code to control the system vibration
 
 ## Background:
   With the experience of establishing linear controller to a existing model. This project is recording the processes of design a control for the inverted double pendulum on the cart, which has been done by one of member several terms before.
