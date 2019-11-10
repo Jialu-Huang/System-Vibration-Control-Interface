@@ -8,7 +8,7 @@ System Vibration Control Interface
 ![PyPI](https://img.shields.io/pypi/v/SciPy?color=Yellow&label=SciPy)
 ## Task
 Write a GUI code to control the system vibration
-## Get Start
+## Getting Started
 ```shell
 pip3 install matplotlib PyQt5 numpy scipy
 ```
