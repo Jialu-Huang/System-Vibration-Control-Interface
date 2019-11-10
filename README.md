@@ -1,5 +1,5 @@
 # Python-Project
-system vibration control interface 
+System Vibration Control Interface 
 
 ## write a GUI code to control the system vibration
 
